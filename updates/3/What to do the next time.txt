@@ -1,0 +1,6 @@
+*footer need to align the links next to the address
+*make register and login and design database migrations
+*configure donate us button
+*IGNORE _LoginPartial - copy paste from older solution AND when pasting ensure the comment has been made a code now
+*FIND HOW TO RELATE FOREIGN KEY AS PRIMARY FOR THE ID
+*CHECK APPLICATIONDBCONTEXT FOR THE DATABASE TABLES, and make a page which edits the data in the table you created.

@@ -1,0 +1,18 @@
+Database configuration:
+create basic profile with:
+	email: test@tester.com
+	passowrd: Test123$
+	karthiganexam@gmail.com
+	ONLYFORexam123$
+
+* navigation menu#
+	changed line 6 and 15 about title, removing the hyphens, 
+include if statement in html saying if the page is opened make the link to that specific 
+
+* footer
+	-layout removed copyright bit in line 68 and added the address as paragraph, links to the required pages have been set up, just need the link to the exact page once configured
+
+*design database
+
+*finalise log in and registration
+*HOME REMOVED
